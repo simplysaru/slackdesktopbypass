@@ -9,7 +9,6 @@
 // @author      simplysaru
 // @description If you are a Slack browser user, this userscript will bypass requests to open desktop app
 // ==UserScript==
-
 window.addEventListener('load', function () {
     var eles = document.getElementsByClassName('c-link');
     //console.log(eles);
