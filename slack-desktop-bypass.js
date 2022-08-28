@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        Slack always in Browser
-// @namespace   https://github.com/simplysaru/slackdesktopbypass/
+// @namespace   Slack Desktop ByPass
 // @updateURL   https://github.com/simplysaru/slackdesktopbypass/raw/master/slack-desktop-bypass.js
 // @match       https://*.slack.com/*
 // @grant       none
